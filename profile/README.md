@@ -1,7 +1,7 @@
 <!-- .github/profile/README.md -->
 
 <p align="center">
-  <img src="https://voiceflow-community.github.io/assets/github-voiceflow-card.png" alt="Voiceflow Community" height="80"/>
+  <img src="https://voiceflow-community.github.io/assets/github-voiceflow-card.png" alt="Voiceflow Community" height="280"/>
 </p>
 
 <h1 align="center">Voiceflow Community</h1>
