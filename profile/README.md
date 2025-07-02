@@ -34,15 +34,6 @@ For full documentation, tutorials, and more resources.
 
 ---
 
-## 🧑‍💻 Featured Projects
-
-- [Demos & Examples](https://github.com/voiceflow-community/demos)
-- [Templates](https://github.com/voiceflow-community/templates)
-
-*Want your project featured? Submit a PR!*
-
----
-
 ## 🤝 Join Us
 
 - 💬 [Discord](https://www.voiceflow.com/voiceflow-community)
